@@ -1,4 +1,4 @@
-# 🚘 Escape en Coordenadas: The Huddle
+# 🚘 Escape en Coordenadas
 
 Programa en Python que genera un tablero tipo grilla de ciudad y busca la ruta más corta entre dos puntos usando el algoritmo **A\* (A-Star)**, teniendo en cuenta obstáculos y zonas de mayor costo.
 
